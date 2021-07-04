@@ -32,3 +32,19 @@ section{
 .header-section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    padding-bottom: 20px;
+}
+.dream-section{
+    padding: 60px 0;
+}
+.dream-section .half-width{
+    width: 50%;
+}
+.resume-button{
+    background-image: linear-gradient(yellow, tomato);
+    text-decoration: none;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700px;
+}
