@@ -32,9 +32,12 @@ section{
 .header-section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    padding-bottom: 20px;
+    margin-bottom: 150px;
 }
 .dream-section{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
     padding: 60px 0;
 }
 .dream-section .half-width{
@@ -50,4 +53,5 @@ section{
     
 }.half-width img{
     width: 80%;
+    border-radius: 25px;
 }
